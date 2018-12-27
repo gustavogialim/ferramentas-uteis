@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MescladorDeStringsTxt", "MescladorDeStringsTxt\MescladorDeStringsTxt.csproj", "{DCCD864E-36E1-4146-9641-13E16C38F7B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCCD864E-36E1-4146-9641-13E16C38F7B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCCD864E-36E1-4146-9641-13E16C38F7B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCCD864E-36E1-4146-9641-13E16C38F7B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCCD864E-36E1-4146-9641-13E16C38F7B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F7E4EC0-8615-490D-952D-1AB251F97AC2}
+	EndGlobalSection
+EndGlobal
